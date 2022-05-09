@@ -1,0 +1,18 @@
+[submodule "rsp_tb2_remote"]
+	path = rsp_tb2_remote
+	url = https://github.com/nhatleminh1997/rsp_tb2_remote
+[submodule "turtlebot_msgs"]
+	path = turtlebot_msgs
+	url = https://github.com/turtlebot/turtlebot_msgs
+[submodule "turtlebot"]
+	path = turtlebot
+	url = https://github.com/turtlebot/turtlebot
+[submodule "turtlebot_apps"]
+	path = turtlebot_apps
+	url = https://github.com/nhatleminh1997/turtlebot_apps
+[submodule "turtlebot_interactions"]
+	path = turtlebot_interactions
+	url = https://github.com/turtlebot/turtlebot_interactions.git
+[submodule "turtlebot_simulator"]
+	path = turtlebot_simulator
+	url = https://github.com/turtlebot/turtlebot_simulator.git
